@@ -1,0 +1,27 @@
+
+
+
+.img{
+ 
+    height: 500px;
+    width: 500px;
+}
+ .img {
+    border-radius: 500px;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    object-position: top center;
+}
+body{
+    background-color: rgba(49, 39, 39, 0.89);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}input{
+        background-color: #3399ff;
+       
+    }
+   
